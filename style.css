@@ -1,0 +1,19 @@
+/*
+Theme name: Roxi tema
+Version: 1.0
+Description: Mi primer tema en wordpress
+Author: Nolvia Roxana Aguilera
+Authon URI: hhttps://github.com/nroxDev
+License: GNU General Public Licence v2 or later
+License: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.logo {
+    height: 200px;
+}
